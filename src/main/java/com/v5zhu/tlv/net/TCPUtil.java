@@ -1,6 +1,6 @@
 package com.v5zhu.tlv.net;
 
-import com.pax.tlv.util.ByteUtils;
+import com.v5zhu.tlv.util.ByteUtils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
